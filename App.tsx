@@ -139,7 +139,7 @@ export default function App() {
                 Mixing
                 </h1>
                 <p className="text-lg text-gray-500 dark:text-gray-400 mt-1">by. Dr. Chan</p>
-                <p className="text-xl font-semibold text-gray-600 dark:text-gray-300 mt-2">מיקסינג פלופרינט לפי ז'אנר</p>
+                <p className="text-xl font-semibold text-gray-600 dark:text-gray-300 mt-2">מיקסינג בלופרינט לפי ז'אנר</p>
             </div>
             <button
                 onClick={toggleTheme}
